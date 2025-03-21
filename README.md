@@ -64,13 +64,7 @@ Frontend
       alt="NextJS"
       height="50"
   /></a>
-  <a href="https://nodejs.org/" target="_blank"
-  ><img
-    style="margin: 10px"
-    src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-    alt="Node.js"
-    height="50"
-/></a>
+
   <a href="https://expressjs.com/" target="_blank"
     ><img
       style="margin: 10px"
@@ -85,25 +79,12 @@ Frontend
       alt="WordPress"
       height="50"
   /></a>
-  <a href="https://firebase.google.com/" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/firebase.png"
-      alt="Firebase"
-      height="50"
-  /></a>
+  
   <a href="https://github.com/" target="_blank"
     ><img
       style="margin: 10px"
       src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
       alt="Git"
-      height="50"
-  /></a>
-  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/adobexd.png"
-      alt="Adobe XD"
       height="50"
   /></a>
  
@@ -128,13 +109,7 @@ Frontend
       alt="Jest"
       height="50"
   /></a>
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/aftereffects.png"
-      alt="After Effects"
-      height="50"
-  /></a>
+  
   <a href="https://www.figma.com/" target="_blank"
     ><img
       style="margin: 10px"
@@ -142,13 +117,7 @@ Frontend
       alt="Figma"
       height="50"
   /></a>
-  <a href="https://www.mongodb.com/" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
-      alt="MongoDB"
-      height="50"
-  /></a>
+  
 </div>
 
 
