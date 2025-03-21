@@ -63,8 +63,7 @@ Frontend
       src="https://profilinator.rishav.dev/skills-assets/nextjs.png"
       alt="NextJS"
       height="50"
-  /></a>
-
+  /></a> 
   <a href="https://expressjs.com/" target="_blank"
     ><img
       style="margin: 10px"
@@ -93,20 +92,6 @@ Frontend
       style="margin: 10px"
       src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
       alt="Webpack"
-      height="50"
-  /></a>
-  <a href="https://graphql.org/" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/graphql.png"
-      alt="GraphQL"
-      height="50"
-  /></a>
-  <a href="https://www.jestjs.io/" target="_blank"
-    ><img
-      style="margin: 10px"
-      src="https://profilinator.rishav.dev/skills-assets/jest.svg"
-      alt="Jest"
       height="50"
   /></a>
   
