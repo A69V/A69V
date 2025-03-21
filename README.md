@@ -1,3 +1,5 @@
+### <div align="center">I'm Abhinav, a full-time full-stack developer 👨‍💻 working on some personal and freelance projects 🚀</div>  
+
 - 🔭 I’m currently working on [Secret Project](#)  
   
 
