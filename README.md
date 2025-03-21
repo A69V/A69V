@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning JavaScript & Backend.
 - 💞️ I’m looking to collaborate on JavaScript related projects
 - 📫 How to reach me on abhinav@1pxlab.com
+
+  ## My Skill Set  
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
@@ -227,14 +230,6 @@
 </div>
 
 </td></tr></table>  
-
-
-## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaan&show_icons=true&locale=en&layout=compact" alt="shreyaan" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyaan&show_icons=true&locale=en" alt="shreyaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaan&" alt="shreyaan" /></p>
 <!---
 A69V/A69V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
