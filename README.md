@@ -78,7 +78,6 @@ Frontend
       alt="WordPress"
       height="50"
   /></a>
-  
   <a href="https://github.com/" target="_blank"
     ><img
       style="margin: 10px"
@@ -86,7 +85,6 @@ Frontend
       alt="Git"
       height="50"
   /></a>
- 
   <a href="https://webpack.js.org/" target="_blank"
     ><img
       style="margin: 10px"
@@ -94,7 +92,6 @@ Frontend
       alt="Webpack"
       height="50"
   /></a>
-  
   <a href="https://www.figma.com/" target="_blank"
     ><img
       style="margin: 10px"
@@ -102,7 +99,6 @@ Frontend
       alt="Figma"
       height="50"
   /></a>
-  
 </div>
 
 
